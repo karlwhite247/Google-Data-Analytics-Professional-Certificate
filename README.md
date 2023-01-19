@@ -1,6 +1,6 @@
 ## About This Course/Certificate
 
-About This workshop and the materials in this repo are for anyone who is interested in working with Data Science to produce high quality, working style! Check out the course link to fine to enroll now!
+This workshop and the materials in this repo are for anyone who is interested in working with Data Science to produce a high-quality working style! Check out the course link to enroll now!
 
 **Course Link:** [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
