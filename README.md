@@ -1,6 +1,6 @@
 ## About This Course/Certificate
 
-About This workshop and the materials in this repo are for anyone who is interested in working with Data Science to produce high quality, working style! Check out follow course link if you think it is interested.
+About This workshop and the materials in this repo are for anyone who is interested in working with Data Science to produce high quality, working style! Check out the course link to fine to enroll now!
 
 **Course Link:** [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
@@ -35,11 +35,3 @@ In addition to expert training and hands-on projects, you'll complete a case stu
 ## Course Certificate
 
 Total Hours: ~240 Hrs
-
-<div align="center">
-
-### Thanks For Watch This Repositories!
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><i>KEEP AWESOME & STAY COOL!</i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-</div>
